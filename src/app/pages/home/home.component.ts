@@ -12,5 +12,6 @@ import { MenuTitleComponent } from '../../components/menu-title/menu-title.compo
   styleUrl: './home.component.css'
 })
 export class HomeComponent {
+[x: string]: string;
 
 }
